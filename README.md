@@ -10,7 +10,7 @@
 
   >
 
-  * 💻 an ordinary software engineer
+  * 💻 An ordinary software engineer
 
   </details>
 
