@@ -24,7 +24,7 @@
 
   >
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qaz7456&repo=compression-app)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qaz7456&repo=compression-app)][4]
 
   </details>
   
@@ -33,3 +33,4 @@
 [1]: https://komarev.com/ghpvc/?username=qaz7456&color=ac6030&style=for-the-badge
 [2]: https://t.me/qaz7456
 [3]: https://stackoverflow.com/users/12709613/ian
+[4]: https://github.com/qaz7456/compression-app
