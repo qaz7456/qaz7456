@@ -25,6 +25,7 @@
   >
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qaz7456&repo=compression-app)][4]
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qaz7456&repo=axios-concurrent-queue)][5]
 
   </details>
   
@@ -34,3 +35,4 @@
 [2]: https://t.me/qaz7456
 [3]: https://stackoverflow.com/users/12709613/ian
 [4]: https://github.com/qaz7456/compression-app
+[5]: https://github.com/qaz7456/axios-concurrent-queue
